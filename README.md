@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-raj-saimon" alt="sandeep-raj-saimon" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Management System](https://git-sandy-frontend.vercel.app/)
+- 🔭 I’m currently working on becoming a Full Stack Developer
 
 - 🌱 I’m currently learning **ReactJS**
 
